@@ -18,7 +18,7 @@
 ----
 * Example -
 ---
-* we use animation feature in our website make interactive and attractive.
+* we use CSS-5 feature in our website make interactive and attractive.
 * Example -
 ```python
 
