@@ -4,7 +4,7 @@
 * I have Developed a Tip_Calculator.
 * This Calculator Is used For Calculate The Bill With Adding Of Tip With Percentages.
  ----
-![Capture](https://user-![image](https://user-images.githubusercontent.com/96167336/186343778-16a9423c-c5a2-4af8-8ba4-dc70f6587974.png))
+![Capture](https://user-![image](C:\Users\Admin\OneDrive\Desktop)
 ----
  # **Fetures of Our website**
  * We have developed our website is an user friendly.
