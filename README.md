@@ -23,8 +23,13 @@
 * we use animation feature in our website make interactive and attractive.
 * Example -
 ```python
-@keyframes service_Ani{
-  from{height: 0px;}
-  to{height: 200px; background-image: linear-gradient(rgb(34, 144, 81),rgb(106, 106, 150));color: #ffffff;}
+
+div{
+    max-width: 500px;
+    height: auto;
+   
+    background-image: linear-gradient(to right, #00b4db, #0083b0); 
+    padding: 50px;
+    box-shadow:1px 1px 15px 3px #2d3436;
 }
 ```
